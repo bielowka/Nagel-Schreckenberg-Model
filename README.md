@@ -1,7 +1,7 @@
 # Nagel-Schreckenberg-Model
 
 **Rozpiska typów**
-- 0 - droga
+- 0 - droga - kolor biały
 - 1 - samochód (max prędkość 3)
 - 2 - samochód (max prędkość 5)
 - 3 - samochód (max prędkość 7)
